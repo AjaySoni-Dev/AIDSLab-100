@@ -1,7 +1,7 @@
 <h1 align="center">AI-DS-100</h1>
 
 <p align="center">
-  <strong>Applied AI & Data Science Project Lab</strong><br>
+  <strong>Applied AI & Data Science Project Lab </strong><br>
   A structured collection of notebook-based projects for machine learning, analytics, and portfolio practice.
 </p>
 
