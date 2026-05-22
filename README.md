@@ -1,4 +1,4 @@
-<h1 align="center">AI-DS-Project</h1>
+<h1 align="center">AI-DS-Projects</h1>
 
 <p align="center">
   <strong>Applied AI & Data Science Project Lab </strong><br>
@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AjaySoni-Dev/AI-DS-Project?style=social">
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/AjaySoni-Dev/AI-DS-Project?style=social">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AjaySoni-Dev/AI-DS-Projects?style=social">
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/AjaySoni-Dev/AI-DS-Projects?style=social">
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## Overview
 
-**AI-DS-100** is an applied AI and Data Science project repository. The uploaded version currently contains **26 implemented project bundles** arranged into three levels: **Basic**, **Intermediate**, and **Advanced**.
+**AI-DS-Projects** is an applied AI and Data Science project repository. The uploaded version currently contains **26 implemented project bundles** arranged into three levels: **Basic**, **Intermediate**, and **Advanced**.
 
 Each project is designed for practical learning and portfolio building. The bundles generally include a notebook, dataset, exported report/PDF, and a short project description.
 
@@ -139,7 +139,7 @@ This consistency makes the repository useful for beginners who want to repeat th
 ## Repository Structure
 
 ```text
-AI-DS-100/
+AI-DS-Projects/
 ├── DS-Project-Basic/
 │   ├── README_BASIC.md
 │   └── 8 project zip bundles
