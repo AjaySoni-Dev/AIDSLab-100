@@ -1,4 +1,4 @@
-<h1 align="center">AI-DS-100</h1>
+<h1 align="center">AI-DS-Project</h1>
 
 <p align="center">
   <strong>Applied AI & Data Science Project Lab </strong><br>
